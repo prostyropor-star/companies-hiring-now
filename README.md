@@ -21,6 +21,8 @@ Which companies are actively hiring right now, by role, country and city. Data c
 - [Germany / DACH](https://prostyropor-star.github.io/companies-hiring-now/germany.html): 765 companies
 - [Remote](https://prostyropor-star.github.io/companies-hiring-now/remote.html) · top 100 remote employers: [remote-companies-hiring-now](https://github.com/prostyropor-star/remote-companies-hiring-now)
 
+Top 100 lists on GitHub: [AI](https://github.com/prostyropor-star/ai-companies-hiring-now) · [Cybersecurity](https://github.com/prostyropor-star/cybersecurity-companies-hiring-now) · [Remote US](https://github.com/prostyropor-star/remote-companies-hiring-now)
+
 ## By city
 [London](https://prostyropor-star.github.io/companies-hiring-now/london.html) ·
 [New York](https://prostyropor-star.github.io/companies-hiring-now/new-york.html) ·
