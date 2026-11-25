@@ -7,18 +7,18 @@ Which companies are actively hiring right now, by role, country and city. Data c
 ## By role
 | Role | Companies hiring | Page |
 |---|---|---|
-| Sales & BD | 495 | [sales](https://prostyropor-star.github.io/companies-hiring-now/sales.html) |
-| DevOps / SRE / Platform | 500 | [devops](https://prostyropor-star.github.io/companies-hiring-now/devops.html) |
-| Data & ML engineering | 473 | [data](https://prostyropor-star.github.io/companies-hiring-now/data.html) |
-| Security | 312 | [security](https://prostyropor-star.github.io/companies-hiring-now/security.html) |
-| Marketing & growth | 344 | [marketing](https://prostyropor-star.github.io/companies-hiring-now/marketing.html) |
-| Recruiting / Talent | 247 | [recruiting](https://prostyropor-star.github.io/companies-hiring-now/recruiting.html) |
-| AI / ML | 675 | [ai](https://prostyropor-star.github.io/companies-hiring-now/ai.html) |
+| Sales & BD | 488 | [sales](https://prostyropor-star.github.io/companies-hiring-now/sales.html) |
+| DevOps / SRE / Platform | 498 | [devops](https://prostyropor-star.github.io/companies-hiring-now/devops.html) |
+| Data & ML engineering | 468 | [data](https://prostyropor-star.github.io/companies-hiring-now/data.html) |
+| Security | 310 | [security](https://prostyropor-star.github.io/companies-hiring-now/security.html) |
+| Marketing & growth | 340 | [marketing](https://prostyropor-star.github.io/companies-hiring-now/marketing.html) |
+| Recruiting / Talent | 245 | [recruiting](https://prostyropor-star.github.io/companies-hiring-now/recruiting.html) |
+| AI / ML | 671 | [ai](https://prostyropor-star.github.io/companies-hiring-now/ai.html) |
 
 ## By country
-- [United States](https://prostyropor-star.github.io/companies-hiring-now/us.html): 2,989 companies
-- [United Kingdom](https://prostyropor-star.github.io/companies-hiring-now/uk.html): 835 companies
-- [Germany / DACH](https://prostyropor-star.github.io/companies-hiring-now/germany.html): 769 companies
+- [United States](https://prostyropor-star.github.io/companies-hiring-now/us.html): 2,958 companies
+- [United Kingdom](https://prostyropor-star.github.io/companies-hiring-now/uk.html): 826 companies
+- [Germany / DACH](https://prostyropor-star.github.io/companies-hiring-now/germany.html): 765 companies
 - [Remote](https://prostyropor-star.github.io/companies-hiring-now/remote.html)
 
 ## By city
@@ -40,7 +40,7 @@ Which companies are actively hiring right now, by role, country and city. Data c
 ## Full lists
 Each page shows the top companies. Full spreadsheets with every company, open-role counts and direct career-page links are available here:
 - [Free sample](https://prostyropor.gumroad.com/l/hcuhtt)
-- [All roles (2,371 companies)](https://prostyropor.gumroad.com/l/hzgeh) · [US](https://prostyropor.gumroad.com/l/vsamf) · [UK](https://prostyropor.gumroad.com/l/dfzrnh) · [DACH](https://prostyropor.gumroad.com/l/aauyd) · [AI](https://prostyropor.gumroad.com/l/kymfe)
+- [All roles (2,349 companies)](https://prostyropor.gumroad.com/l/hzgeh) · [US](https://prostyropor.gumroad.com/l/vsamf) · [UK](https://prostyropor.gumroad.com/l/dfzrnh) · [DACH](https://prostyropor.gumroad.com/l/aauyd) · [AI](https://prostyropor.gumroad.com/l/kymfe)
 
 ## Method
 Public job postings collected from company-hosted ATS job boards. Duplicates, staffing agencies, and outlier boards (e.g. single companies posting hundreds of near-identical listings) are excluded. Counts reflect open roles at collection time.
