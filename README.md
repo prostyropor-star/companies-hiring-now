@@ -13,11 +13,11 @@ Which companies are actively hiring right now, by role, country and city. Data c
 | Security | 310 | [security](https://prostyropor-star.github.io/companies-hiring-now/security.html) |
 | Marketing & growth | 340 | [marketing](https://prostyropor-star.github.io/companies-hiring-now/marketing.html) |
 | Recruiting / Talent | 245 | [recruiting](https://prostyropor-star.github.io/companies-hiring-now/recruiting.html) |
-| AI / ML | 671 | [ai](https://prostyropor-star.github.io/companies-hiring-now/ai.html) |
+| AI / ML | 670 | [ai](https://prostyropor-star.github.io/companies-hiring-now/ai.html) |
 
 ## By country
-- [United States](https://prostyropor-star.github.io/companies-hiring-now/us.html): 2,958 companies
-- [United Kingdom](https://prostyropor-star.github.io/companies-hiring-now/uk.html): 826 companies
+- [United States](https://prostyropor-star.github.io/companies-hiring-now/us.html): 2,956 companies
+- [United Kingdom](https://prostyropor-star.github.io/companies-hiring-now/uk.html): 825 companies
 - [Germany / DACH](https://prostyropor-star.github.io/companies-hiring-now/germany.html): 765 companies
 - [Remote](https://prostyropor-star.github.io/companies-hiring-now/remote.html)
 
