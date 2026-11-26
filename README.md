@@ -21,7 +21,9 @@ Which companies are actively hiring right now, by role, country and city. Data c
 - [Germany / DACH](https://prostyropor-star.github.io/companies-hiring-now/germany.html): 765 companies
 - [Remote](https://prostyropor-star.github.io/companies-hiring-now/remote.html) · top 100 remote employers: [remote-companies-hiring-now](https://github.com/prostyropor-star/remote-companies-hiring-now)
 
-Top 100 lists on GitHub: [AI](https://github.com/prostyropor-star/ai-companies-hiring-now) · [Cybersecurity](https://github.com/prostyropor-star/cybersecurity-companies-hiring-now) · [DevOps](https://github.com/prostyropor-star/devops-companies-hiring-now) · [Data](https://github.com/prostyropor-star/data-companies-hiring-now) · [Remote US](https://github.com/prostyropor-star/remote-companies-hiring-now)
+Top 100 lists on GitHub: [AI](https://github.com/prostyropor-star/ai-companies-hiring-now) · [Cybersecurity](https://github.com/prostyropor-star/cybersecurity-companies-hiring-now) · [DevOps](https://github.com/prostyropor-star/devops-companies-hiring-now) · [Data](https://github.com/prostyropor-star/data-companies-hiring-now)
+
+All five top-100 lists as CSV on Kaggle: [Companies Hiring Now dataset](https://www.kaggle.com/datasets/prostyropordata/companies-hiring-now-top-100-by-role-nov-2026) · [Remote US](https://github.com/prostyropor-star/remote-companies-hiring-now)
 
 ## By city
 [London](https://prostyropor-star.github.io/companies-hiring-now/london.html) ·
