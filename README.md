@@ -23,6 +23,8 @@ Which companies are actively hiring right now, by role, country and city. Data c
 
 Top 100 lists on GitHub: [AI](https://github.com/prostyropor-star/ai-companies-hiring-now) · [Cybersecurity](https://github.com/prostyropor-star/cybersecurity-companies-hiring-now) · [DevOps](https://github.com/prostyropor-star/devops-companies-hiring-now) · [Data](https://github.com/prostyropor-star/data-companies-hiring-now)
 
+Run your own live search for any role: [Hiring Signals on Apify](https://apify.com/mistlike_potato/hiring-signals-companies-hiring)
+
 All five top-100 lists as CSV on Kaggle: [Companies Hiring Now dataset](https://www.kaggle.com/datasets/prostyropordata/companies-hiring-now-top-100-by-role-nov-2026) · [Remote US](https://github.com/prostyropor-star/remote-companies-hiring-now)
 
 ## By city
